@@ -7,4 +7,4 @@ def index(request):
     return HttpResponse("eworjf")
 
 def test(request):
-    print("这是Dev上的代码与master没有任何关系")
+    print("这是dev上的代码与master没有任何关系")
